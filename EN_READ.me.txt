@@ -1,0 +1,6 @@
+This project is a simple simulation of hipothetical company database with client application that helps with managing it. 
+The company manages packages transport. It derive packets from all over the the world and deliver it to its own Warehouses in Poland.
+Every package has information about the warehouse from which it is derived and to which warehouse it should be delivered.
+Packages can have different weights, but ther are only 4 sizes that they can have(S, M, L, XL).
+
+Client application provide 3 functionalities: Adding, removing and updating database records.
