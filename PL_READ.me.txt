@@ -1,6 +1,6 @@
 Powyższy projekt symuluję bazę danych hipotetycznej firmy, która zajmuje się transportem paczek.
 Firma ściąga przesyłki z różnych krajów i rozprowadza je do swoich magazynów w Polsce. 
-Każda paczka posiada informacje o magazynie z jakiego przybyła oraz o magazynie w polsce do którego trafi.
+Każda paczka posiada informację o magazynie z jakiego przybyła oraz o magazynie w polsce do którego trafi.
 Paczki mogą posiadać różne wagi i 4 określone rozmiary(S, M, L, XL).
 
 Aby uruchomić program należy utworzyć nowy folder i przekopiować do niego zawartość rozpakowanego pliku "bisd-program.zip", a następnie
@@ -8,6 +8,5 @@ Za pomocą programu VisualStudio otworzyć projekt "Warehouses.sln", a następni
 
 Na środku ekranu powinno pojawić się okienko z wieloma przyciskami i szarą tablicą.
 Aby wyświetlić poszczególne tabele bazy danych należy wcisnąć odpowiedni przycisk koloru fioletowego.
-W lewym górnym roku znajdują się 4 przyciski. Aby ich użyć, należy wcześniej uzupełnić znajdujące się pod nimi kolumny poprawnymi danymi.
+W lewym górnym rogu znajdują się 4 przyciski. Aby ich użyć, należy wcześniej uzupełnić znajdujące się pod nimi kolumny poprawnymi danymi.
 Na prawo od szarej tablicy znajdują się 2 przyciski, które po naciśnięciu wyświetlą odpowiednie raporty.
-
